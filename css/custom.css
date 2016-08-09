@@ -39,11 +39,24 @@ hr {
 	text-align: center;
 }
 
-.bridge {
-	  background-image: url(https://hd.unsplash.com/photo-1467521335787-2f0fc0f0e9a0);
-	  background-size: cover;
-	  background-repeat: no-repeat;
-	  background-position: center;
+.home-header {
+	background-image: url('../img/home-bg.jpg')
+}
+
+.classes-header {
+	background-image: url('../img/classes-header.JPG');
+}
+
+.staff-header {
+	background-image: url('../img/staff-header.jpeg');
+}
+
+.blog-header {
+	background-image: url('../img/blog-bg.jpg');
+}
+
+.contact-header {
+	background-image: url('../img/contact-bg.jpg');
 }
 
 .correa-portrait {
